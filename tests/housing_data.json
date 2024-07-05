@@ -1,0 +1,902 @@
+[
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Пушкина, д. 32",
+        "floor_count": 6,
+        "heating_house_type": "c",
+        "heating_value": 933.27,
+        "area_residential": 1254.6,
+        "population": 105
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Пушкина, д. 48",
+        "floor_count": 10,
+        "heating_house_type": "A++",
+        "heating_value": 697.9,
+        "area_residential": 4645.24,
+        "population": 332
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Советская, д. 56",
+        "floor_count": 11,
+        "heating_house_type": "A+",
+        "heating_value": 801.19,
+        "area_residential": 927.1,
+        "population": 24
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Кирова, д. 60",
+        "floor_count": 12,
+        "heating_house_type": "e",
+        "heating_value": 224.61,
+        "area_residential": 3445.64,
+        "population": 267
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Пушкина, д. 41",
+        "floor_count": 5,
+        "heating_house_type": "b",
+        "heating_value": 684.04,
+        "area_residential": 2009.54,
+        "population": 120
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Кирова, д. 40",
+        "floor_count": 2,
+        "heating_house_type": "C",
+        "heating_value": 319.26,
+        "area_residential": 301.03,
+        "population": 429
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Советская, д. 41",
+        "floor_count": 2,
+        "heating_house_type": "A",
+        "heating_value": 619.98,
+        "area_residential": 1825.56,
+        "population": 314
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Советская, д. 34",
+        "floor_count": 12,
+        "heating_house_type": "G",
+        "heating_value": 752.18,
+        "area_residential": 1814.2,
+        "population": 243
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Пушкина, д. 11",
+        "floor_count": 3,
+        "heating_house_type": "a+",
+        "heating_value": 757.56,
+        "area_residential": 4185.54,
+        "population": 351
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Гагарина, д. 69",
+        "floor_count": 1,
+        "heating_house_type": "A",
+        "heating_value": 822.7,
+        "area_residential": 2805.48,
+        "population": 226
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Пушкина, д. 66",
+        "floor_count": 6,
+        "heating_house_type": "b",
+        "heating_value": 313.87,
+        "area_residential": 2712.07,
+        "population": 251
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 63",
+        "floor_count": 11,
+        "heating_house_type": "g",
+        "heating_value": 651.33,
+        "area_residential": 4559.92,
+        "population": 16
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Пушкина, д. 15",
+        "floor_count": 19,
+        "heating_house_type": "a+",
+        "heating_value": 428.5,
+        "area_residential": 3984.02,
+        "population": 250
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 85",
+        "floor_count": 9,
+        "heating_house_type": "E",
+        "heating_value": 562.46,
+        "area_residential": 4765.78,
+        "population": 130
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 85",
+        "floor_count": 3,
+        "heating_house_type": "a+",
+        "heating_value": 484.08,
+        "area_residential": 1328.98,
+        "population": 44
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Пушкина, д. 33",
+        "floor_count": 13,
+        "heating_house_type": "E",
+        "heating_value": 206.64,
+        "area_residential": 282.25,
+        "population": 144
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Ленина, д. 36",
+        "floor_count": 6,
+        "heating_house_type": "C",
+        "heating_value": 105.12,
+        "area_residential": 4175.15,
+        "population": 59
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Пушкина, д. 70",
+        "floor_count": 14,
+        "heating_house_type": "B",
+        "heating_value": 198.85,
+        "area_residential": 316.73,
+        "population": 57
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Гагарина, д. 69",
+        "floor_count": 8,
+        "heating_house_type": "a++",
+        "heating_value": 768.62,
+        "area_residential": 3686.59,
+        "population": 235
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Пушкина, д. 97",
+        "floor_count": 7,
+        "heating_house_type": "C",
+        "heating_value": 915.03,
+        "area_residential": 1611.26,
+        "population": 337
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Пушкина, д. 63",
+        "floor_count": 7,
+        "heating_house_type": "C",
+        "heating_value": 551.39,
+        "area_residential": 2689.98,
+        "population": 497
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Ленина, д. 43",
+        "floor_count": 20,
+        "heating_house_type": "b",
+        "heating_value": 342.61,
+        "area_residential": 1115.75,
+        "population": 200
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Ленина, д. 2",
+        "floor_count": 9,
+        "heating_house_type": "b",
+        "heating_value": 80.83,
+        "area_residential": 1898.92,
+        "population": 488
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Ленина, д. 39",
+        "floor_count": 14,
+        "heating_house_type": "e",
+        "heating_value": 691.24,
+        "area_residential": 3288.34,
+        "population": 485
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 84",
+        "floor_count": 13,
+        "heating_house_type": "A+",
+        "heating_value": 482.29,
+        "area_residential": 1361.73,
+        "population": 237
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Пушкина, д. 31",
+        "floor_count": 18,
+        "heating_house_type": "a",
+        "heating_value": 395.45,
+        "area_residential": 3186.51,
+        "population": 380
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 85",
+        "floor_count": 19,
+        "heating_house_type": "a++",
+        "heating_value": 117.48,
+        "area_residential": 572.35,
+        "population": 425
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Советская, д. 93",
+        "floor_count": 3,
+        "heating_house_type": "a",
+        "heating_value": 927.41,
+        "area_residential": 3525.48,
+        "population": 73
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Пушкина, д. 81",
+        "floor_count": 14,
+        "heating_house_type": "G",
+        "heating_value": 229.61,
+        "area_residential": 796.87,
+        "population": 63
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Пушкина, д. 87",
+        "floor_count": 17,
+        "heating_house_type": "F",
+        "heating_value": 58.16,
+        "area_residential": 1828.84,
+        "population": 480
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Ленина, д. 40",
+        "floor_count": 10,
+        "heating_house_type": "e",
+        "heating_value": 329.05,
+        "area_residential": 4121.55,
+        "population": 241
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Гагарина, д. 84",
+        "floor_count": 13,
+        "heating_house_type": "g",
+        "heating_value": 48.84,
+        "area_residential": 2140.69,
+        "population": 385
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Советская, д. 36",
+        "floor_count": 20,
+        "heating_house_type": "E",
+        "heating_value": 576.46,
+        "area_residential": 3064.19,
+        "population": 11
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Гагарина, д. 60",
+        "floor_count": 8,
+        "heating_house_type": "d",
+        "heating_value": 104.11,
+        "area_residential": 1697.54,
+        "population": 486
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 40",
+        "floor_count": 5,
+        "heating_house_type": "d",
+        "heating_value": 273.86,
+        "area_residential": 1629.77,
+        "population": 95
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Советская, д. 96",
+        "floor_count": 10,
+        "heating_house_type": "F",
+        "heating_value": 451.42,
+        "area_residential": 3506.17,
+        "population": 5
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 85",
+        "floor_count": 11,
+        "heating_house_type": "A+",
+        "heating_value": 190.12,
+        "area_residential": 4496.12,
+        "population": 101
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Гагарина, д. 51",
+        "floor_count": 2,
+        "heating_house_type": "A+",
+        "heating_value": 440.18,
+        "area_residential": 908.87,
+        "population": 419
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Ленина, д. 44",
+        "floor_count": 12,
+        "heating_house_type": "C",
+        "heating_value": 540.62,
+        "area_residential": 4867.3,
+        "population": 278
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Ленина, д. 64",
+        "floor_count": 12,
+        "heating_house_type": "G",
+        "heating_value": 657.95,
+        "area_residential": 604.64,
+        "population": 126
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Гагарина, д. 39",
+        "floor_count": 5,
+        "heating_house_type": "f",
+        "heating_value": 509.72,
+        "area_residential": 4816.75,
+        "population": 337
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Советская, д. 19",
+        "floor_count": 17,
+        "heating_house_type": "a+",
+        "heating_value": 397.25,
+        "area_residential": 1543.11,
+        "population": 88
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Кирова, д. 77",
+        "floor_count": 11,
+        "heating_house_type": "G",
+        "heating_value": 229.79,
+        "area_residential": 3998.66,
+        "population": 456
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Пушкина, д. 29",
+        "floor_count": 16,
+        "heating_house_type": "A++",
+        "heating_value": 805.37,
+        "area_residential": 3053.98,
+        "population": 204
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 53",
+        "floor_count": 10,
+        "heating_house_type": "A",
+        "heating_value": 511.41,
+        "area_residential": 1463.88,
+        "population": 460
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Кирова, д. 74",
+        "floor_count": 2,
+        "heating_house_type": "C",
+        "heating_value": 264.26,
+        "area_residential": 938.3,
+        "population": 350
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Кирова, д. 26",
+        "floor_count": 16,
+        "heating_house_type": "B",
+        "heating_value": 547.08,
+        "area_residential": 3725.78,
+        "population": 16
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Советская, д. 27",
+        "floor_count": 11,
+        "heating_house_type": "b",
+        "heating_value": 826.58,
+        "area_residential": 3434.17,
+        "population": 276
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Пушкина, д. 9",
+        "floor_count": 14,
+        "heating_house_type": "d",
+        "heating_value": 239.59,
+        "area_residential": 1413.64,
+        "population": 287
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Советская, д. 77",
+        "floor_count": 9,
+        "heating_house_type": "a+",
+        "heating_value": 944.15,
+        "area_residential": 1619.46,
+        "population": 59
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Пушкина, д. 73",
+        "floor_count": 2,
+        "heating_house_type": "c",
+        "heating_value": 707.09,
+        "area_residential": 4670.21,
+        "population": 166
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 77",
+        "floor_count": 14,
+        "heating_house_type": "c",
+        "heating_value": 698.37,
+        "area_residential": 4873.05,
+        "population": 36
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Гагарина, д. 76",
+        "floor_count": 18,
+        "heating_house_type": "c",
+        "heating_value": 376.1,
+        "area_residential": 4533.1,
+        "population": 392
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Гагарина, д. 67",
+        "floor_count": 20,
+        "heating_house_type": "a+",
+        "heating_value": 381.32,
+        "area_residential": 1833.7,
+        "population": 439
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 84",
+        "floor_count": 11,
+        "heating_house_type": "a+",
+        "heating_value": 820.28,
+        "area_residential": 1278.54,
+        "population": 259
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Кирова, д. 7",
+        "floor_count": 15,
+        "heating_house_type": "G",
+        "heating_value": 608.9,
+        "area_residential": 307.21,
+        "population": 84
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Ленина, д. 51",
+        "floor_count": 2,
+        "heating_house_type": "f",
+        "heating_value": 863.73,
+        "area_residential": 2271.41,
+        "population": 223
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Кирова, д. 31",
+        "floor_count": 19,
+        "heating_house_type": "a+",
+        "heating_value": 321.65,
+        "area_residential": 2194.67,
+        "population": 119
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Советская, д. 7",
+        "floor_count": 5,
+        "heating_house_type": "F",
+        "heating_value": 54.46,
+        "area_residential": 297.25,
+        "population": 374
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Советская, д. 46",
+        "floor_count": 11,
+        "heating_house_type": "a+",
+        "heating_value": 269.4,
+        "area_residential": 485.36,
+        "population": 71
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Гагарина, д. 23",
+        "floor_count": 3,
+        "heating_house_type": "f",
+        "heating_value": 677.47,
+        "area_residential": 799.49,
+        "population": 56
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Пушкина, д. 15",
+        "floor_count": 20,
+        "heating_house_type": "D",
+        "heating_value": 465.14,
+        "area_residential": 3954.44,
+        "population": 192
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 24",
+        "floor_count": 3,
+        "heating_house_type": "a++",
+        "heating_value": 889.46,
+        "area_residential": 1834.55,
+        "population": 367
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Гагарина, д. 4",
+        "floor_count": 19,
+        "heating_house_type": "a++",
+        "heating_value": 277.15,
+        "area_residential": 3144.75,
+        "population": 232
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 24",
+        "floor_count": 4,
+        "heating_house_type": "g",
+        "heating_value": 619.9,
+        "area_residential": 3738.94,
+        "population": 142
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Ленина, д. 29",
+        "floor_count": 9,
+        "heating_house_type": "A+",
+        "heating_value": 67.46,
+        "area_residential": 1298.5,
+        "population": 397
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Гагарина, д. 80",
+        "floor_count": 19,
+        "heating_house_type": "a+",
+        "heating_value": 202.78,
+        "area_residential": 460.51,
+        "population": 263
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Гагарина, д. 38",
+        "floor_count": 14,
+        "heating_house_type": "a+",
+        "heating_value": 55.6,
+        "area_residential": 2284.76,
+        "population": 338
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Гагарина, д. 14",
+        "floor_count": 20,
+        "heating_house_type": "A",
+        "heating_value": 40.07,
+        "area_residential": 422.62,
+        "population": 123
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Пушкина, д. 43",
+        "floor_count": 14,
+        "heating_house_type": "c",
+        "heating_value": 615.25,
+        "area_residential": 636.99,
+        "population": 157
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Гагарина, д. 64",
+        "floor_count": 19,
+        "heating_house_type": "A+",
+        "heating_value": 492.11,
+        "area_residential": 4336.86,
+        "population": 57
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Гагарина, д. 30",
+        "floor_count": 1,
+        "heating_house_type": "A+",
+        "heating_value": 391.75,
+        "area_residential": 485.51,
+        "population": 489
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Гагарина, д. 48",
+        "floor_count": 8,
+        "heating_house_type": "A+",
+        "heating_value": 250.68,
+        "area_residential": 2427.47,
+        "population": 122
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Пушкина, д. 36",
+        "floor_count": 15,
+        "heating_house_type": "E",
+        "heating_value": 553.1,
+        "area_residential": 3899.02,
+        "population": 266
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Пушкина, д. 21",
+        "floor_count": 9,
+        "heating_house_type": "D",
+        "heating_value": 497.37,
+        "area_residential": 4587.92,
+        "population": 17
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Гагарина, д. 57",
+        "floor_count": 8,
+        "heating_house_type": "A",
+        "heating_value": 502.95,
+        "area_residential": 927.22,
+        "population": 461
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Советская, д. 78",
+        "floor_count": 1,
+        "heating_house_type": "c",
+        "heating_value": 84.67,
+        "area_residential": 378.12,
+        "population": 364
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Гагарина, д. 85",
+        "floor_count": 15,
+        "heating_house_type": "c",
+        "heating_value": 883.5,
+        "area_residential": 2009.27,
+        "population": 143
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Кирова, д. 22",
+        "floor_count": 12,
+        "heating_house_type": "f",
+        "heating_value": 318.57,
+        "area_residential": 4396.48,
+        "population": 369
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Гагарина, д. 16",
+        "floor_count": 2,
+        "heating_house_type": "f",
+        "heating_value": 489.09,
+        "area_residential": 4108.84,
+        "population": 12
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Ленина, д. 88",
+        "floor_count": 16,
+        "heating_house_type": "E",
+        "heating_value": 583.23,
+        "area_residential": 4806.9,
+        "population": 130
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Гагарина, д. 80",
+        "floor_count": 5,
+        "heating_house_type": "B",
+        "heating_value": 316.99,
+        "area_residential": 1440.71,
+        "population": 122
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Кирова, д. 73",
+        "floor_count": 3,
+        "heating_house_type": "A++",
+        "heating_value": 953.53,
+        "area_residential": 2115.59,
+        "population": 404
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Гагарина, д. 45",
+        "floor_count": 19,
+        "heating_house_type": "B",
+        "heating_value": 142.12,
+        "area_residential": 4194.74,
+        "population": 456
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Гагарина, д. 34",
+        "floor_count": 15,
+        "heating_house_type": "B",
+        "heating_value": 147.19,
+        "area_residential": 2781.56,
+        "population": 227
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Советская, д. 58",
+        "floor_count": 16,
+        "heating_house_type": "A++",
+        "heating_value": 960.9,
+        "area_residential": 1669.19,
+        "population": 81
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 39",
+        "floor_count": 11,
+        "heating_house_type": "A",
+        "heating_value": 193.44,
+        "area_residential": 1072.67,
+        "population": 103
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 76",
+        "floor_count": 10,
+        "heating_house_type": "B",
+        "heating_value": 647.87,
+        "area_residential": 4713.65,
+        "population": 143
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Пушкина, д. 21",
+        "floor_count": 9,
+        "heating_house_type": "C",
+        "heating_value": 137.34,
+        "area_residential": 823.36,
+        "population": 304
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Ленина, д. 17",
+        "floor_count": 9,
+        "heating_house_type": "A",
+        "heating_value": 222.86,
+        "area_residential": 761.63,
+        "population": 421
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 98",
+        "floor_count": 4,
+        "heating_house_type": "A++",
+        "heating_value": 270.93,
+        "area_residential": 2671.43,
+        "population": 198
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Гагарина, д. 82",
+        "floor_count": 11,
+        "heating_house_type": "G",
+        "heating_value": 272.76,
+        "area_residential": 3123.92,
+        "population": 291
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Кирова, д. 51",
+        "floor_count": 19,
+        "heating_house_type": "a+",
+        "heating_value": 677.23,
+        "area_residential": 2038.05,
+        "population": 99
+    },
+    {
+        "area_id": "area_3",
+        "house_address": "ул. Пушкина, д. 75",
+        "floor_count": 4,
+        "heating_house_type": "A++",
+        "heating_value": 967.74,
+        "area_residential": 3491.39,
+        "population": 47
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Советская, д. 92",
+        "floor_count": 6,
+        "heating_house_type": "a",
+        "heating_value": 77.59,
+        "area_residential": 2048.96,
+        "population": 274
+    },
+    {
+        "area_id": "area_4",
+        "house_address": "ул. Советская, д. 31",
+        "floor_count": 5,
+        "heating_house_type": "C",
+        "heating_value": 110.02,
+        "area_residential": 2475.37,
+        "population": 75
+    },
+    {
+        "area_id": "area_2",
+        "house_address": "ул. Гагарина, д. 70",
+        "floor_count": 12,
+        "heating_house_type": "F",
+        "heating_value": 229.55,
+        "area_residential": 1869.72,
+        "population": 366
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Гагарина, д. 73",
+        "floor_count": 15,
+        "heating_house_type": "A++",
+        "heating_value": 29.71,
+        "area_residential": 4868.25,
+        "population": 51
+    },
+    {
+        "area_id": "area_5",
+        "house_address": "ул. Ленина, д. 89",
+        "floor_count": 1,
+        "heating_house_type": "e",
+        "heating_value": 923.38,
+        "area_residential": 4347.71,
+        "population": 9
+    },
+    {
+        "area_id": "area_1",
+        "house_address": "ул. Пушкина, д. 23",
+        "floor_count": 3,
+        "heating_house_type": "f",
+        "heating_value": 519.96,
+        "area_residential": 4338.52,
+        "population": 204
+    }
+]
